@@ -20,7 +20,6 @@ Buildrequires:	libxpm-devel
 Buildrequires:	libjpeg-devel
 Buildrequires:	libx11-devel
 Buildrequires:	libxext-devel
-BuildRoot:	%{_tmppath}/%{name}-buildroot
 
 %description
 
