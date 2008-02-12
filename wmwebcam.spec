@@ -23,7 +23,6 @@ Buildrequires:	libxext-devel
 BuildRoot:	%{_tmppath}/%{name}-buildroot
 
 %description
-
 This is for watching your webcam which has a video4linux driver in your
 windowmakers dock..
 This is actually just a edited version of vidcat (from w3cam's package)
