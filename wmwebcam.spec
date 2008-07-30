@@ -1,5 +1,5 @@
 %define version 0.3.5
-%define release %mkrel 8
+%define release %mkrel 10
 %define name wmwebcam
 %define title WmWebcam 
 
