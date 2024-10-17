@@ -13,7 +13,7 @@ Source:		%{name}-%{version}.tar.bz2
 Source1:    %{name}.16x16.png.bz2
 Source2:    %{name}.32x32.png.bz2
 Source3:    %{name}.48x48.png.bz2
-URL:		http://fragment.stc.cx/?abd
+URL:		https://fragment.stc.cx/?abd
 BuildRequires:	libxdmcp-devel
 BuildRequires:	libxau-devel
 Buildrequires:	libxpm-devel
